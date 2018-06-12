@@ -1,5 +1,6 @@
-# coursera machine learning quizes
-Solutions to the quizes of Andrew Ngs Machine Learning Course on Coursera <br/>
+# Coursera Machine Learning quizes
+# Machine Learning - By Andrew Ng
+Solutions to the quizes of Andrew Ngs of Standford University Machine Learning Course on Coursera. <br/>
 
 #### Week 1
-Open the file for [week1](week1.md)
+Open the file for [week1](ml/week1.md) <br/>
